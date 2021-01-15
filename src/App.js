@@ -6,7 +6,7 @@ import AddTodo from './components/AddTodo';
 import About from './components/pages/About';
 import uuid from 'uuid';
 import axios from 'axios';
-
+//https://jsonplaceholder.typicode.com/todos?_limit=10
 import './App.css';
 
 class App extends Component {
@@ -16,7 +16,7 @@ class App extends Component {
 
   componentDidMount() {
     axios
-      .get('https://jsonplaceholder.typicode.com/todos?_limit=10')
+      .get('https://raw.githubusercontent.com/DeathBarmaglot/reactToDo/main/todo')
       .then(res => this.setState({ todos: res.data }));
   }
 
