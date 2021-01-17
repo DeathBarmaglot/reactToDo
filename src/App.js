@@ -6,7 +6,7 @@ import AddTodo from './components/AddTodo';
 import About from './components/pages/About';
 import uuid from 'uuid';
 import axios from 'axios';
-//https://jsonplaceholder.typicode.com/todos?_limit=10
+
 import './App.css';
 
 class App extends Component {
