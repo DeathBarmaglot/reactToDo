@@ -1,19 +1,43 @@
-# - https://www.youtube.com/watch?v=qfR2eN0X5L4
-###https://www.youtube.com/watch?v=gyGsPlt06bo
-###https://www.youtube.com/watch?v=j0wCewl87ec
-###https://www.youtube.com/watch?v=rpEph-sDNOI
-###https://www.youtube.com/watch?v=jV8B24rSN5o flex
-###https://www.youtube.com/watch?v=PdNOq7VszY8 css
-###https://www.youtube.com/watch?v=zHUpx90NerM
-###https://fls.guru/csstransition.html
-###https://www.youtube.com/watch?v=yZFg3cuq_LU transition: css1
-###https://www.youtube.com/watch?v=p0bGHP-PXD4&t=619s
-###https://www.youtube.com/watch?v=PP0Os0UvMCs
-###https://www.youtube.com/watch?v=uQEGUpsnqsw
-###https://www.youtube.com/watch?v=GKgOOuTL0po
-###https://www.youtube.com/watch?v=yhh-PY-2u-U
-###https://www.youtube.com/watch?v=XjUV6i6eul4
-
+https://www.youtube.com/watch?v=qfR2eN0X5L4\n
+https://www.youtube.com/watch?v=gyGsPlt06bo\n
+https://www.youtube.com/watch?v=j0wCewl87ec\n
+https://www.youtube.com/watch?v=rpEph-sDNOI
+https://www.youtube.com/watch?v=jV8B24rSN5o flex
+https://www.youtube.com/watch?v=PdNOq7VszY8 css
+https://www.youtube.com/watch?v=zHUpx90NerM
+https://fls.guru/csstransition.html
+https://www.youtube.com/watch?v=yZFg3cuq_LU transition: css1
+https://www.youtube.com/watch?v=p0bGHP-PXD4&t=619s
+https://www.youtube.com/watch?v=PP0Os0UvMCs
+https://www.youtube.com/watch?v=uQEGUpsnqsw
+https://www.youtube.com/watch?v=GKgOOuTL0po
+https://www.youtube.com/watch?v=yhh-PY-2u-U
+https://www.youtube.com/watch?v=XjUV6i6eul4
+https://www.youtube.com/watch?v=fjJHtyHYsyI
+https://www.youtube.com/watch?v=EO8mZZxNuBI
+https://www.youtube.com/watch?v=ColaCPC08ZY
+https://www.youtube.com/watch?v=BI7gg4jwRZM
+https://www.youtube.com/watch?v=WeVQwPBsZJY
+https://www.youtube.com/watch?v=g4F2DLtPVv4
+https://www.youtube.com/watch?v=Jx11NYXasf8
+https://www.youtube.com/watch?v=mIbar0WTESE
+https://www.youtube.com/watch?v=O0juf0DZuWs
+https://www.youtube.com/watch?v=tsw1RtKEMng
+https://www.youtube.com/watch?time_continue=767&v=ZgH68Wg8M68&feature=emb_logo
+https://www.youtube.com/watch?v=vGs0QDzRA4A&feature=emb_rel_pause
+https://www.youtube.com/watch?v=UNQIal4B3j0&t=5s
+https://www.youtube.com/watch?v=eiih7ydIrj4&t=3s
+https://babeljs.io/
+https://github.com/airbnb/javascript
+https://sass-lang.com/guide
+https://medium.com/russian/a-cartoon-intro-to-redux-e2108896f7e6
+https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/
+https://www.smashingmagazine.com/2018/08/flexbox-alignment/
+https://www.youtube.com/user/beginningprogrammer
+https://scs.p2p.programming.org.ua/
+https://scs.p2p.programming.org.ua/material/1/files%2Fa%2Fquestions01.md
+https://shpp.gitbook.io/scs-manual/revyu/oriyentiri-dlya-ocinyuvannya-kodu.-dopomizhna-tablicya/yak-pravilno-zalivati-kod
+https://discord.com/channels/534496884849639455/634814839025303617
 
 # Front-end 2021. Roadmap & Trends
 Список полезных видео-уроков для изучения веб-разработки.
