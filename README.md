@@ -1,3 +1,20 @@
+###https://www.youtube.com/watch?v=qfR2eN0X5L4
+###https://www.youtube.com/watch?v=gyGsPlt06bo
+###https://www.youtube.com/watch?v=j0wCewl87ec
+###https://www.youtube.com/watch?v=rpEph-sDNOI
+###https://www.youtube.com/watch?v=jV8B24rSN5o flex
+###https://www.youtube.com/watch?v=PdNOq7VszY8 css
+###https://www.youtube.com/watch?v=zHUpx90NerM
+###https://fls.guru/csstransition.html
+###https://www.youtube.com/watch?v=yZFg3cuq_LU transition: css1
+###https://www.youtube.com/watch?v=p0bGHP-PXD4&t=619s
+###https://www.youtube.com/watch?v=PP0Os0UvMCs
+###https://www.youtube.com/watch?v=uQEGUpsnqsw
+###https://www.youtube.com/watch?v=GKgOOuTL0po
+###https://www.youtube.com/watch?v=yhh-PY-2u-U
+###https://www.youtube.com/watch?v=XjUV6i6eul4
+
+
 # Front-end 2021. Roadmap & Trends
 Список полезных видео-уроков для изучения веб-разработки.
 Список ресурсов, которые "легли" в основу дорожной карты "Front-end 2021".
