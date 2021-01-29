@@ -1,3 +1,61 @@
+https://emotion.sh/docs/keyframes
+https://courses.hardskills-exam.kh.ua/dashboard
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgxwKkblfjdGbWphlfBFXXLjkHhXq
+https://www.hackerrank.com/test/4tdebr1p5i0/d689ec7705ba0a4b7acc4184bcfc2182
+
+* [vue.js](https://vuejs.org/) - компонентный js framework, проще чем React, всё что нужно есть в комплекте (vue cli, devtools, vue router, vuex). VirtualDOM в рантайме, обновление при изменении состояния; Ничем не лучше React, кроме порога вход	, и vue проще интегрировать в существующий проект. Экосистема немного хуже чем у React (все необходимые библиотеки есть, но специфическую можно и не найти).
+* [svelte](https://svelte.dev/) - скорее специальный синтаксис, чем framework; не использует VirtualDOM, вместо этого синтаксис во время сборки превращается в набор функций, которые меняют DOM в нужный момент, работает быстрее чем React, vue, Angular, etc. Из недостатков - экосистема пока не богата библиотеками и модулями, тяжело найти подходящие.
+* [Emotion.js](https://emotion.sh/) - css-in-js библиотека для написания стилей. Очень удобная, поддерживает интерполяюцию, темы. Из недостатков (как и у всех css-in-js) - стили ставятся и изменяются в runtime, это немного бьет по провзодительности странички.
+* [Rebass.js](https://rebassjs.org/) - react библиотека ui примитивов
+* [Jest](https://jestjs.io/) - JS testing framework, один из самых популярных, а уж для React - самый популярный.
+* [Gatsby](https://www.gatsbyjs.com/) - генератор статических сайтов. Позволяет описывать все странички сайта React компонентами, даёт client routing, большое количество плагинов. Генерирует статические html странички, куда включает всю динамику.
+https://www.youtube.com/watch?v=kVc_XfZY0vI
+https://www.youtube.com/watch?v=0cYdA4MBwhk
+https://www.youtube.com/watch?v=L72fhGm1tfE&t=884s
+https://www.youtube.com/watch?v=nu5mdN2JIwM
+
+https://airbnb.io/lottie/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library
+
+https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.6/lottie_canvas.min.js
+
+https://connoratherton.com/loaders
+https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.css
+https://github.com/web-animations/web-animations-js?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library
+https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.js
+
+https://cdnjs.cloudflare.com/ajax/libs/jquery-requestAnimationFrame/0.2.1/jquery.requestanimationframe.js
+
+https://cdnjs.cloudflare.com/ajax/libs/css-animations.js/0.1.0/css-animations.min.js
+
+https://cdnjs.cloudflare.com/ajax/libs/animations/2.1/js/animations.min.js
+
+
+https://cdnjs.cloudflare.com/ajax/libs/web-animations/2.3.2/web-animations.min.js
+https://www.youtube.com/watch?v=qfR2eN0X5L4
+https://www.youtube.com/watch?v=gyGsPlt06bo
+https://www.youtube.com/watch?v=j0wCewl87ec
+
+https://www.youtube.com/watch?v=rpEph-sDNOI
+
+https://www.youtube.com/watch?v=jV8B24rSN5o flex
+https://www.youtube.com/watch?v=PdNOq7VszY8 css
+https://www.youtube.com/watch?v=zHUpx90NerM
+
+https://fls.guru/csstransition.html
+
+https://www.youtube.com/watch?v=yZFg3cuq_LU transition: css1
+
+https://www.youtube.com/watch?v=p0bGHP-PXD4&t=619s
+
+https://www.youtube.com/watch?v=PP0Os0UvMCs
+https://www.youtube.com/watch?v=uQEGUpsnqsw
+https://www.youtube.com/watch?v=GKgOOuTL0po
+https://www.youtube.com/watch?v=yhh-PY-2u-U
+https://www.youtube.com/watch?v=XjUV6i6eul4 -->
+
+AngularJS  AWS  Back End  Blockchain  Bootstrap.js  Collaboration  CSS3  Design Patterns  Django  Docker  English Speaking  HTML5  
+JavaScript  Jenkins  JQuery  Kubernetes  Laravel  Logo Design  Model View Controller  MongoDB  MVC  MySQL  Node.js  PHP  Python  
+Reactjs  Ruby on Rails  UI Design  User Experience  User Interface Design  Vuejs  WMS
 (https://github.com/likezninjaz/react-ru-interview-questions)
 ###(https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 ###(https://www.youtube.com/watch?v=qfR2eN0X5L4)
@@ -81,7 +139,6 @@
 ### Tools (Additional):
 - [РћСЃРЅРѕРІС‹ РєРѕРјР°РЅРґРЅРѕР№ СЃС‚СЂРѕРєРё/РўРµСЂРјРёРЅР°Р»](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv)
 
-## Р РµСЃСѓСЂСЃС‹ РёСЃРїРѕР»СЊР·СѓРµРјС‹Рµ РІ РІРёРґРµРѕ:
 - [Accessibility](https://developers.google.com/web/fundamentals/accessibility)
 - [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Data Structures](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
@@ -93,7 +150,6 @@
 - [Web Components](https://www.webcomponents.org)
 - [CSR vs. SSR](https://www.bacancytechnology.com/blog/client-side-rendering-vs-server-side-rendering-vs-pre-rendering)
 
-## РЎС‚Р°С‚РёСЃС‚РёРєРё Рё СЃС‚Р°С‚СЊРё:
 - [StateOfJS](https://2019.stateofjs.com)
 - [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
 - [State of Front-end 2020](https://tsh.io/State-of-Frontend-2020-by-TSH.pdf)
