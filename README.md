@@ -3,12 +3,12 @@ https://courses.hardskills-exam.kh.ua/dashboard
 https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgxwKkblfjdGbWphlfBFXXLjkHhXq
 https://www.hackerrank.com/test/4tdebr1p5i0/d689ec7705ba0a4b7acc4184bcfc2182
 
-* [vue.js](https://vuejs.org/) - компонентный js framework, проще чем React, всё что нужно есть в комплекте (vue cli, devtools, vue router, vuex). VirtualDOM в рантайме, обновление при изменении состояния; Ничем не лучше React, кроме порога вход	, и vue проще интегрировать в существующий проект. Экосистема немного хуже чем у React (все необходимые библиотеки есть, но специфическую можно и не найти).
-* [svelte](https://svelte.dev/) - скорее специальный синтаксис, чем framework; не использует VirtualDOM, вместо этого синтаксис во время сборки превращается в набор функций, которые меняют DOM в нужный момент, работает быстрее чем React, vue, Angular, etc. Из недостатков - экосистема пока не богата библиотеками и модулями, тяжело найти подходящие.
-* [Emotion.js](https://emotion.sh/) - css-in-js библиотека для написания стилей. Очень удобная, поддерживает интерполяюцию, темы. Из недостатков (как и у всех css-in-js) - стили ставятся и изменяются в runtime, это немного бьет по провзодительности странички.
-* [Rebass.js](https://rebassjs.org/) - react библиотека ui примитивов
-* [Jest](https://jestjs.io/) - JS testing framework, один из самых популярных, а уж для React - самый популярный.
-* [Gatsby](https://www.gatsbyjs.com/) - генератор статических сайтов. Позволяет описывать все странички сайта React компонентами, даёт client routing, большое количество плагинов. Генерирует статические html странички, куда включает всю динамику.
+* [vue.js](https://vuejs.org/) - РєРѕРјРїРѕРЅРµРЅС‚РЅС‹Р№ js framework, РїСЂРѕС‰Рµ С‡РµРј React, РІСЃС‘ С‡С‚Рѕ РЅСѓР¶РЅРѕ РµСЃС‚СЊ РІ РєРѕРјРїР»РµРєС‚Рµ (vue cli, devtools, vue router, vuex). VirtualDOM РІ СЂР°РЅС‚Р°Р№РјРµ, РѕР±РЅРѕРІР»РµРЅРёРµ РїСЂРё РёР·РјРµРЅРµРЅРёРё СЃРѕСЃС‚РѕСЏРЅРёСЏ; РќРёС‡РµРј РЅРµ Р»СѓС‡С€Рµ React, РєСЂРѕРјРµ РїРѕСЂРѕРіР° РІС…РѕРґ	, Рё vue РїСЂРѕС‰Рµ РёРЅС‚РµРіСЂРёСЂРѕРІР°С‚СЊ РІ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёР№ РїСЂРѕРµРєС‚. Р­РєРѕСЃРёСЃС‚РµРјР° РЅРµРјРЅРѕРіРѕ С…СѓР¶Рµ С‡РµРј Сѓ React (РІСЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ Р±РёР±Р»РёРѕС‚РµРєРё РµСЃС‚СЊ, РЅРѕ СЃРїРµС†РёС„РёС‡РµСЃРєСѓСЋ РјРѕР¶РЅРѕ Рё РЅРµ РЅР°Р№С‚Рё).
+* [svelte](https://svelte.dev/) - СЃРєРѕСЂРµРµ СЃРїРµС†РёР°Р»СЊРЅС‹Р№ СЃРёРЅС‚Р°РєСЃРёСЃ, С‡РµРј framework; РЅРµ РёСЃРїРѕР»СЊР·СѓРµС‚ VirtualDOM, РІРјРµСЃС‚Рѕ СЌС‚РѕРіРѕ СЃРёРЅС‚Р°РєСЃРёСЃ РІРѕ РІСЂРµРјСЏ СЃР±РѕСЂРєРё РїСЂРµРІСЂР°С‰Р°РµС‚СЃСЏ РІ РЅР°Р±РѕСЂ С„СѓРЅРєС†РёР№, РєРѕС‚РѕСЂС‹Рµ РјРµРЅСЏСЋС‚ DOM РІ РЅСѓР¶РЅС‹Р№ РјРѕРјРµРЅС‚, СЂР°Р±РѕС‚Р°РµС‚ Р±С‹СЃС‚СЂРµРµ С‡РµРј React, vue, Angular, etc. РР· РЅРµРґРѕСЃС‚Р°С‚РєРѕРІ - СЌРєРѕСЃРёСЃС‚РµРјР° РїРѕРєР° РЅРµ Р±РѕРіР°С‚Р° Р±РёР±Р»РёРѕС‚РµРєР°РјРё Рё РјРѕРґСѓР»СЏРјРё, С‚СЏР¶РµР»Рѕ РЅР°Р№С‚Рё РїРѕРґС…РѕРґСЏС‰РёРµ.
+* [Emotion.js](https://emotion.sh/) - css-in-js Р±РёР±Р»РёРѕС‚РµРєР° РґР»СЏ РЅР°РїРёСЃР°РЅРёСЏ СЃС‚РёР»РµР№. РћС‡РµРЅСЊ СѓРґРѕР±РЅР°СЏ, РїРѕРґРґРµСЂР¶РёРІР°РµС‚ РёРЅС‚РµСЂРїРѕР»СЏСЋС†РёСЋ, С‚РµРјС‹. РР· РЅРµРґРѕСЃС‚Р°С‚РєРѕРІ (РєР°Рє Рё Сѓ РІСЃРµС… css-in-js) - СЃС‚РёР»Рё СЃС‚Р°РІСЏС‚СЃСЏ Рё РёР·РјРµРЅСЏСЋС‚СЃСЏ РІ runtime, СЌС‚Рѕ РЅРµРјРЅРѕРіРѕ Р±СЊРµС‚ РїРѕ РїСЂРѕРІР·РѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё СЃС‚СЂР°РЅРёС‡РєРё.
+* [Rebass.js](https://rebassjs.org/) - react Р±РёР±Р»РёРѕС‚РµРєР° ui РїСЂРёРјРёС‚РёРІРѕРІ
+* [Jest](https://jestjs.io/) - JS testing framework, РѕРґРёРЅ РёР· СЃР°РјС‹С… РїРѕРїСѓР»СЏСЂРЅС‹С…, Р° СѓР¶ РґР»СЏ React - СЃР°РјС‹Р№ РїРѕРїСѓР»СЏСЂРЅС‹Р№.
+* [Gatsby](https://www.gatsbyjs.com/) - РіРµРЅРµСЂР°С‚РѕСЂ СЃС‚Р°С‚РёС‡РµСЃРєРёС… СЃР°Р№С‚РѕРІ. РџРѕР·РІРѕР»СЏРµС‚ РѕРїРёСЃС‹РІР°С‚СЊ РІСЃРµ СЃС‚СЂР°РЅРёС‡РєРё СЃР°Р№С‚Р° React РєРѕРјРїРѕРЅРµРЅС‚Р°РјРё, РґР°С‘С‚ client routing, Р±РѕР»СЊС€РѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ РїР»Р°РіРёРЅРѕРІ. Р“РµРЅРµСЂРёСЂСѓРµС‚ СЃС‚Р°С‚РёС‡РµСЃРєРёРµ html СЃС‚СЂР°РЅРёС‡РєРё, РєСѓРґР° РІРєР»СЋС‡Р°РµС‚ РІСЃСЋ РґРёРЅР°РјРёРєСѓ.
 https://www.youtube.com/watch?v=kVc_XfZY0vI
 https://www.youtube.com/watch?v=0cYdA4MBwhk
 https://www.youtube.com/watch?v=L72fhGm1tfE&t=884s
@@ -100,11 +100,6 @@ Reactjs  Ruby on Rails  UI Design  User Experience  User Interface Design  Vuejs
 ###(https://discord.com/channels/534496884849639455/634814839025303617
 
 # Front-end 2021. Roadmap & Trends
-РЎРїРёСЃРѕРє РїРѕР»РµР·РЅС‹С… РІРёРґРµРѕ-СѓСЂРѕРєРѕРІ РґР»СЏ РёР·СѓС‡РµРЅРёСЏ РІРµР±-СЂР°Р·СЂР°Р±РѕС‚РєРё.
-РЎРїРёСЃРѕРє СЂРµСЃСѓСЂСЃРѕРІ, РєРѕС‚РѕСЂС‹Рµ "Р»РµРіР»Рё" РІ РѕСЃРЅРѕРІСѓ РґРѕСЂРѕР¶РЅРѕР№ РєР°СЂС‚С‹ "Front-end 2021".
-
-## РџРѕР»РµР·РЅС‹Рµ РІРёРґРµРѕ-РєСѓСЂСЃС‹:
-
 ### HTML (Basics):
 - [HTML Basics](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
 
@@ -137,7 +132,7 @@ Reactjs  Ruby on Rails  UI Design  User Experience  User Interface Design  Vuejs
 - [React Testing Library](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK)
 
 ### Tools (Additional):
-- [РћСЃРЅРѕРІС‹ РєРѕРјР°РЅРґРЅРѕР№ СЃС‚СЂРѕРєРё/РўРµСЂРјРёРЅР°Р»](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv)
+- [xz](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv)
 
 - [Accessibility](https://developers.google.com/web/fundamentals/accessibility)
 - [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -154,6 +149,6 @@ Reactjs  Ruby on Rails  UI Design  User Experience  User Interface Design  Vuejs
 - [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
 - [State of Front-end 2020](https://tsh.io/State-of-Frontend-2020-by-TSH.pdf)
 - [JavaScript and Web Development InfoQ Trends Report 2020](https://www.infoq.com/articles/javascript-web-development-trends-2020/)
-- [Р­РєРѕСЃРёСЃС‚РµРјР° СЂР°Р·СЂР°Р±РѕС‚РєРё РІ 2020 РіРѕРґСѓ](https://www.jetbrains.com/ru-ru/lp/devecosystem-2020/)
+- [2020](https://www.jetbrains.com/ru-ru/lp/devecosystem-2020/)
 - [Front End Development Trends 2020](https://fireart.studio/blog/front-end-development-trends-2020-most-popular-javascript-frameworks/)
 - [Web Development Trends and the Latest Web Technology Stacks in 2020](https://clockwise.software/blog/web-development-trends/)
